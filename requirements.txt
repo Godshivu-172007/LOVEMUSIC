@@ -33,7 +33,9 @@ tgcrypto
 urllib3
 uvloop
 flask
-pytgcalls
+pytgcalls>=0.0.13,<0.1
+tgcalls>=0.0.6,<0.1
+
 gunicorn==20.1.0
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/yt-dlp/yt-dlp
